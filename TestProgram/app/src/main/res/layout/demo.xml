@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:padding="10dp">
+
+    <ProgressBar
+        android:id="@+id/simpleProgressBar"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:max="100"
+        android:maxHeight="70dp"
+        android:minHeight="70dp"
+        android:progressDrawable="@drawable/progress_color"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        app:layout_constraintBottom_toBottomOf="@+id/simpleProgressBar"
+        app:layout_constraintEnd_toEndOf="@+id/simpleProgressBar"
+        app:layout_constraintStart_toStartOf="@+id/simpleProgressBar"
+        app:layout_constraintTop_toTopOf="@+id/simpleProgressBar" />
+
+</android.support.constraint.ConstraintLayout>

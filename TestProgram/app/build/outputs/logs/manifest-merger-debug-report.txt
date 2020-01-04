@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835164d34723ec0b78f3cbd8730d8671\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53ecf68f55f3606c908be3b85c860c93\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d6a3639bb6a38e12b27dd8efea23ce40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\9ce8ada6473276217308fa9fdd539a02\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7d1ad0842923025034e77980665b53e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d7fa6d8fd150d4a446f957ec2bec694d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff5339adb17be263e9f1b79132ebe0d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f766df646b0804b55ad6936f232d84e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\74b365aa96020cf9408c6d4f45dc9ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\15810e7caaa9f66898596f8ff93e95ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6722cf1bf8873fbbe21d9da5bdfbd54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2758916a90a577fd235257b2740ee086\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5940bc57150fe7cca6a4ec7649ba83f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f85432d7898d3f1b1bd5b3f92be27ba3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad162208b7f74d2e9df41bb4f5a3d3a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9972dc7164aaa0aea5666003e9cb632a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6d824b2eb83c3468110f4a78cbf9bc13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cc17e829ad9e1e899945186d83b84278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8463719e680009e23af32f8622f1b223\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52efaeb12dd7724ac62276b3e7c734ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\308a853671d94e27fb878cae8fbf8d7a\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a546e627bc7df179879a631b0f94649\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c49aa00c98d2647a86f007af275b32c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1af97ae58b356dbaa5a6f36df5af852\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f21c9bd6bbf9be2cf9feb5bdbb6c3d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\470df82b7021b77e0f319fe94979ba32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\195c2f6cdf8eccc2dafbc0d60e1f8911\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\b579ae1ddc9637b032d6e82dfbcf2c29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\241af26e70b5e06068b8c93173f7bf94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\65202d7c307715c6d8cdfcf364adad0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b052a38bc6e07f476dc5858b9dae3cf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\80edd7efe7535166a5da5117dfc9ff23\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53ecf68f55f3606c908be3b85c860c93\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53ecf68f55f3606c908be3b85c860c93\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\9ce8ada6473276217308fa9fdd539a02\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\9ce8ada6473276217308fa9fdd539a02\AndroidManifest.xml:10:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8463719e680009e23af32f8622f1b223\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8463719e680009e23af32f8622f1b223\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\308a853671d94e27fb878cae8fbf8d7a\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\308a853671d94e27fb878cae8fbf8d7a\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.testprogram.view.Demo
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:14:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835164d34723ec0b78f3cbd8730d8671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\835164d34723ec0b78f3cbd8730d8671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53ecf68f55f3606c908be3b85c860c93\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\53ecf68f55f3606c908be3b85c860c93\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d6a3639bb6a38e12b27dd8efea23ce40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\d6a3639bb6a38e12b27dd8efea23ce40\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\9ce8ada6473276217308fa9fdd539a02\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\9ce8ada6473276217308fa9fdd539a02\AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7d1ad0842923025034e77980665b53e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f7d1ad0842923025034e77980665b53e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d7fa6d8fd150d4a446f957ec2bec694d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d7fa6d8fd150d4a446f957ec2bec694d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff5339adb17be263e9f1b79132ebe0d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff5339adb17be263e9f1b79132ebe0d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f766df646b0804b55ad6936f232d84e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\f766df646b0804b55ad6936f232d84e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\74b365aa96020cf9408c6d4f45dc9ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\74b365aa96020cf9408c6d4f45dc9ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\15810e7caaa9f66898596f8ff93e95ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\15810e7caaa9f66898596f8ff93e95ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6722cf1bf8873fbbe21d9da5bdfbd54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\d6722cf1bf8873fbbe21d9da5bdfbd54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2758916a90a577fd235257b2740ee086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2758916a90a577fd235257b2740ee086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5940bc57150fe7cca6a4ec7649ba83f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\5940bc57150fe7cca6a4ec7649ba83f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f85432d7898d3f1b1bd5b3f92be27ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f85432d7898d3f1b1bd5b3f92be27ba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad162208b7f74d2e9df41bb4f5a3d3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad162208b7f74d2e9df41bb4f5a3d3a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9972dc7164aaa0aea5666003e9cb632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9972dc7164aaa0aea5666003e9cb632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6d824b2eb83c3468110f4a78cbf9bc13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\6d824b2eb83c3468110f4a78cbf9bc13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cc17e829ad9e1e899945186d83b84278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\cc17e829ad9e1e899945186d83b84278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\abf010d9046e386fefb22d4a3fd9a5ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8463719e680009e23af32f8622f1b223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8463719e680009e23af32f8622f1b223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52efaeb12dd7724ac62276b3e7c734ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\52efaeb12dd7724ac62276b3e7c734ee\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\308a853671d94e27fb878cae8fbf8d7a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\308a853671d94e27fb878cae8fbf8d7a\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a546e627bc7df179879a631b0f94649\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2a546e627bc7df179879a631b0f94649\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c49aa00c98d2647a86f007af275b32c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c49aa00c98d2647a86f007af275b32c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1af97ae58b356dbaa5a6f36df5af852\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b1af97ae58b356dbaa5a6f36df5af852\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f21c9bd6bbf9be2cf9feb5bdbb6c3d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8f21c9bd6bbf9be2cf9feb5bdbb6c3d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\470df82b7021b77e0f319fe94979ba32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\470df82b7021b77e0f319fe94979ba32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\195c2f6cdf8eccc2dafbc0d60e1f8911\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\195c2f6cdf8eccc2dafbc0d60e1f8911\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\b579ae1ddc9637b032d6e82dfbcf2c29\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\b579ae1ddc9637b032d6e82dfbcf2c29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\241af26e70b5e06068b8c93173f7bf94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\241af26e70b5e06068b8c93173f7bf94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\65202d7c307715c6d8cdfcf364adad0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\65202d7c307715c6d8cdfcf364adad0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b052a38bc6e07f476dc5858b9dae3cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b052a38bc6e07f476dc5858b9dae3cf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\80edd7efe7535166a5da5117dfc9ff23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\80edd7efe7535166a5da5117dfc9ff23\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\neera\OneDrive\Desktop\TestProgram\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\neera\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5c251e66cc0486acbcaf2f165b1cf328\AndroidManifest.xml:24:13-83

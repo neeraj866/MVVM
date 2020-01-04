@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 20 23:51:11 EST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\neera\\OneDrive\\Desktop\\TestProgram\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Program</string>
+    <string name="mapsted_test_case_8">Mapsted Test Case #8</string>
+    <string name="neeraj_kumar_grover">[Neeraj Kumar Grover]</string>
+    <string name="date">[20 Dec,2019]</string>
+    <string name="purchase_costs">Purchase Costs:</string>
+    <string name="manufacturer">Manufacturer:</string>
+    <string name="category">Category</string>
+    <string name="country">Country:</string>
+    <string name="state">State:</string>
+    <string name="item">Item:</string>
+    <string name="most_total_purchases">Most Total Purchases:</string>
+    <string name="building">Building:</string>
+    <string name="number_of_purchases">Number of Purchases:</string>
+</resources>
